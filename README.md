@@ -37,11 +37,11 @@ Powered by KritSync • Premium Discord Automation App
 
 After GitHub Pages is enabled, use these in your KritSync bot .env file:
 
-KRITSYNC_LOGO_URL=https://YOUR_GITHUB_USERNAME.github.io/kritsync-assets/assets/kritsync-logo.png
+KRITSYNC_LOGO_URL=https://KritSystems-DC.github.io/kritsync-assets/assets/kritsync-logo.png
 
-KRITSYNC_ICON_URL=https://YOUR_GITHUB_USERNAME.github.io/kritsync-assets/assets/kritsync-icon.png
+KRITSYNC_ICON_URL=https://KritSystems-DC.github.io/kritsync-assets/assets/kritsync-icon.png
 
-KRITSYNC_BANNER_URL=https://YOUR_GITHUB_USERNAME.github.io/kritsync-assets/assets/kritsync-banner.png
+KRITSYNC_BANNER_URL=https://KritSystems-DC.github.io/kritsync-assets/assets/kritsync-banner.png
 
 Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 
